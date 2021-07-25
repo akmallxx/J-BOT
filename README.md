@@ -54,15 +54,15 @@ $ node alphamain.js
 
 # Yang Perlu Di Edit
  
-Owner Number Di [`Main.js`](https://github.com/Zobin33/Anu-Wabot/blob/main/main.js) Line 191
+Owner Number Di [`Main.js`](https://github.com/Dvnz99/J-BOT/blob/main/main.js) Line 191
 
-Prefix Di [`Main.js`](https://github.com/Zobin33/Anu-Wabot/blob/main/main.js) Line|Baris 97 Support Emot Dan Kata Kata
+Prefix Di [`Main.js`](https://github.com/Dvnz99/J-BOT/blob/main/main.js) Line|Baris 97 Support Emot Dan Kata Kata
 
-mess [`Di Main.js`](https://github.com/Zobin33/Anu-Wabot/blob/main/main.js) Line|Baris 210
+mess [`Di Main.js`](https://github.com/Dvnz99/J-BOT/blob/main/main.js) Line|Baris 210
 
-Help Di [`Help.js`](https://github.com/Zobin33/Anu-Wabot/blob/main/src/help.js)
+Help Di [`Help.js`](https://github.com/Dvnz99/J-BOT/blob/main/src/help.js)
 
-botname Di [`Main.js`](https://github.com/Zobin33/Anu-Wabot/blob/main/main.js) Line|Baris 98
+botname Di [`Main.js`](https://github.com/Dvnz99/J-BOT/blob/main/main.js) Line|Baris 98
 
 ## Thanks To
 
