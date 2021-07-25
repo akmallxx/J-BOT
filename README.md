@@ -1,4 +1,4 @@
-# Zbin-Wabot
+# J-BOT
 
 Bot Biasa Dengan Base Mhankbarbar Dan Saya Modif Agar Sesuai Selera Saya Pribadi
 
@@ -6,18 +6,14 @@ Untuk Sc Nya Saya Menyediakan Fitur Yaa Biasa Biasa Aja Cuma Ada Beberapa Comman
 
 Bot Ini Juga Bisa Menggunakan Api Seperti Bot Lain Nya
 
-## Update News
-
-new Alpha1 Main.js
-
 # Installation
 
 ## Termux
 ```cmd
 $ pkg update && pkg upgrade
 $ pkg i git
-$ git clone https://github.com/Zobin33/Zbin-Wabot
-$ cd Zbin-Wabot
+$ git clone https://github.com/Dvnz99/J-BOT
+$ cd J-BOT
 $ bash install.sh
 
 Scan QR
@@ -27,8 +23,8 @@ Scan QR
 ```cmd
 $ pkg update && pkg upgrade
 $ pkg i git nodejs libwebp ffmpeg wget tesseract toilet
-$ git clone https://github.com/Zobin33/Zbin-Wabot
-$ cd Zbin-Wabot
+$ git clone https://github.com/Dvnz99/J-BOT
+$ cd J-BOT
 $ wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
 $ npm i -g
 ```
@@ -39,21 +35,21 @@ $ npm i -g
 * [`Download Node JS`](https://nodejs.org/en/download/)
 * [`Download Git`](https://git-scm.com/downloads)
 ```cmd
-> git clone https://github.com/Zobin33/Zbin-Wabot
-> cd Zbin-Wabot
+> git clone https://github.com/J-BOT
+> cd J-BOT
 > wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
 > npm i -g
 ```
 
 # Run Bot
 ```cmd
-$ cd Zbin-Wabot
+$ cd J-BOT
 $ bash run.sh
 ```
 # Run Beta Bot
 ```cmd
-$ cd Zbin-Wabot
-$ node alphamain
+$ cd J-BOT
+$ node alphamain.js
 ```
 
 # Yang Perlu Di Edit
